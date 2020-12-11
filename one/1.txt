@@ -2,6 +2,4 @@ hello
 This is my first commit
 this is new word
 this is new word as well!!
-this is the
-sdfasdfasdfasdfasdf
-jdgfklsj
+this is great
